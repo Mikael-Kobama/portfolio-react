@@ -12,7 +12,10 @@ const ProjectsContainer = () => {
         desenvolvi soluções completas com Node.js e MongoDB, criando tanto o
         front-end quanto o back-end de forma integrada.
       </p>
-      <a href="https://github.com/Mikael-Kobama" className="btn">
+      <a
+        href="https://github.com/Mikael-Kobama?tab=repositories"
+        className="btn"
+      >
         Ver Projetos
       </a>
     </section>
