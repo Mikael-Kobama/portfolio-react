@@ -2,7 +2,7 @@ const AboutContainer = () => {
   return (
     <section className="about-container">
       <h2>Sobre</h2>
-      <p>
+      <p className="textP">
         Sou Mikael Kobama, recém-formado em Análise de Sistemas e atualmente
         atuando como Desenvolvedor Web Júnior. Ao longo da minha trajetória,
         desenvolvi uma forte base em JavaScript e estou focado em me tornar um
@@ -14,7 +14,7 @@ const AboutContainer = () => {
         oportunidades para crescer profissionalmente e colaborar em projetos
         inovadores.
       </p>
-      <p>
+      <p className="textP">
         Tenho um nível intermediário de inglês, o que me permite trabalhar com
         documentação técnica e colaborar com equipes internacionais, e um nível
         básico de espanhol. Com uma paixão por criar soluções tecnológicas
