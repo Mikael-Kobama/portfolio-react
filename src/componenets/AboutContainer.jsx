@@ -15,9 +15,9 @@ const AboutContainer = () => {
         inovadores.
       </p>
       <p className="textP">
-        Tenho um nível intermediário de inglês, o que me permite trabalhar com
-        documentação técnica e colaborar com equipes internacionais, e um nível
-        básico de espanhol. Com uma paixão por criar soluções tecnológicas
+        Tenho um nível intermediário de inglês(B2), o que me permite trabalhar
+        com documentação técnica e colaborar com equipes internacionais, e um
+        nível básico de espanhol. Com uma paixão por criar soluções tecnológicas
         eficientes e sempre em busca de aprender mais, meu objetivo é contribuir
         para projetos de impacto, aprimorar minhas habilidades em
         desenvolvimento web e software e fazer a diferença no mundo da
